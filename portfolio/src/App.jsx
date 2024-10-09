@@ -9,7 +9,7 @@ export default function App() {
            <h3>Hi there, I am</h3>
            <h1>Mark Angelo Pallesco</h1>
            <h2>Im a Front-End Developer</h2>
-           <button>Learn More</button>
+           <button className="p-2 bg-white text-darkbg" >Learn More</button>
         </div>
       </div>
     </div>
