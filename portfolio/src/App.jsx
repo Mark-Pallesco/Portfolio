@@ -7,7 +7,7 @@ export default function App() {
     <div className="bg-darkbg">
       <Header />
       <main className="w-full h-screen flex justify-center items-center" id="info">
-        <section className="text-white gap-4 flex flex-col items-center">
+        <section className="text-white gap-4 flex flex-col items-center w-full ">
           <h3 className="font-sans text-3xl">Hi there, I am</h3>
           <h1 className="font-bold text-5xl">Mark Angelo Pallesco</h1>
           <h2 className="text-2xl">Im a Front-End Developer</h2>
